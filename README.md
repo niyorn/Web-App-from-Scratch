@@ -44,5 +44,7 @@ Marco Alka ('Vanilla JavaScript vs. Frameworks & Libraries sFinding a good balan
 ### district0x
 url: https://district0x.io/
 
-District0x makes great use of typography, color, and scroll animation. When viewing the site on mobile, the site is still great to use. The animation that is displayed still plays at around 60fps. And there is alot of whitespaces that gives the content more space the display itself.
+District0x makes great use of typography, color, and scroll animation. When viewing the site on mobile, the site is still great to use. The animation that is displayed still plays at around 60fps. And there is alot of whitespaces that gives the content more air to display itself.\
+![alt text](readme-assets/district0x.gif "district0x")
+
 
