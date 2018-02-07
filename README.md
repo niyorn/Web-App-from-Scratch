@@ -16,6 +16,8 @@ This is an single page web app. It is created from scratch without using any unn
 
 - It requires JavaScript to be present and enabled. If any user disables JavaScript in his or her browser, it won’t be possible to present application and its actions in a correct way.
 
+Neoteric ('Single-page application vs. multiple-page application'), taken from: https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58
+
 ## Frameworks in general
 
 ### Pro
