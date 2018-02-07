@@ -38,3 +38,11 @@ Francois-Xavier P. Darveau ('Yes, You Should Learn Vanilla JavaScript Before Fan
 Marco Alka ('Vanilla JavaScript vs. Frameworks & Libraries sFinding a good balance'), taken from : https://hashnode.com/post/vanilla-javascript-vs-frameworks-and-libraries-finding-a-good-balance-civ1zfus90pphdc53q8vtakz5
 
  
+## Inspiration
+*The first thing I did was looking for inspiration and and good examples of single page application.*
+
+### district0x
+url: https://district0x.io/
+
+District0x makes great use of typography, color, and scroll animation. When viewing the site on mobile, the site is still great to use. The animation that is displayed still plays at around 60fps. And there is alot of whitespaces that gives the content more space the display itself.
+
