@@ -45,6 +45,20 @@ Marco Alka ('Vanilla JavaScript vs. Frameworks & Libraries sFinding a good balan
 url: https://district0x.io/
 
 District0x makes great use of typography, color, and scroll animation. When viewing the site on mobile, the site is still great to use. The animation that is displayed still plays at around 60fps. And there is alot of whitespaces that gives the content more air to display itself.\
-![alt text](readme-assets/district0x.gif "district0x")
+![district0x](readme-assets/district0x.gif "district0x")
 
+### Kollergorna
+url: https://radar.kollegorna.se/
+
+Kollergorna is a beautifull site that doens't use a traditional layout. Also they give the user an option to view their content in a different layout. Lastly the loadying of the content in insanely fast. 
+
+![Kolergona](readme-assets/kollergorna.gif "kolergona")
+
+
+# To do this weekend
+
+
+1. Create an issue for Leonie
+2. Create an issue for Kevin
+3. create responsive menu
 
